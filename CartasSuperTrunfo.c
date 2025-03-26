@@ -76,3 +76,4 @@ printf("Número de Pontos Turísticos:%d\n" ,pontos_turisticos2);
 
 return 0;
 }
+teste
