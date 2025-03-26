@@ -31,7 +31,7 @@ printf("Digite o PIB:\n");
 scanf("%f" , &Pib1);
 printf("Digite o número de pontos turísticos:\n");
 scanf("%d" , &pontos_turisticos1);
-printf("\n")
+printf("\n");
 
 //Entrada da segunda carta
 printf("***Cadastre a Segunda carta***\n");
